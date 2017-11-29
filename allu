@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Allu</title>
+</head>
+<body>
+<script>
+    alert('Moi Allu!')
+  </script>
+  <div><h2>Tämä sivusto on tehty sitä varten että todistaisin kaverilleni osaan
+    tehdä sivustoja.<br><br>Tekijä: Marek Pinter</br></br></h2></div>
+</body>
+</html>
